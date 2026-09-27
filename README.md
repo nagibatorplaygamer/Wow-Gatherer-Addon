@@ -216,4 +216,4 @@ WoW Gatherer Addon is available as a complete free version, with all features an
 Download the WoW Gatherer Addon now and take your World of Warcraft experience to the next level! Don’t miss out on the chance to gather efficiently and effectively.
 
 ---
-**Last updated:** 2026-09-27 18:49:41 UTC
+**Last updated:** 2026-09-27 21:47:46 UTC
